@@ -12,7 +12,17 @@
     "movie-trailer": "^2.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-youtube": "^9.0.3"
+    "react-youtube": "^9.0.3",
+    "node-fetch": "2.6.8",
+		"http-cache-semantics": "4.1.1",
+		"got": "11.8.5",
+		"json5": "2.2.2",
+		"terser": "5.14.2",
+		"unset-value": "2.0.2",
+		"glob-parent": "5.1.2",
+		"trim-newlines": "3.0.1",
+		"webpack": "5.76.0",
+		"decode-uri-component": "0.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
